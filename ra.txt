@@ -1,1 +1,2 @@
 I am trying to work in git bash
+I am adding another text to the existing file
